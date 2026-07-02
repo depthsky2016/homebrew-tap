@@ -2,6 +2,8 @@
 
 Homebrew tap for Jiang's apps.
 
+> `voiceinput` is also submitted to the official [homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask/pull/272864) repo (PR under review). Once merged, you'll be able to `brew install --cask voiceinput` directly, no tap needed.
+
 ## Install
 
 ```bash
