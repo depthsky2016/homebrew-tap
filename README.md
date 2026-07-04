@@ -2,7 +2,11 @@
 
 Homebrew tap for Jiang's apps.
 
-> `voiceinput` is also submitted to the official [homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask/pull/272864) repo (PR under review). Once merged, you'll be able to `brew install --cask voiceinput` directly, no tap needed.
+> All casks below are also submitted to the official [homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) repo (PRs under review). Once merged, you'll be able to `brew install --cask <name>` directly, no tap needed.
+>
+> - `voiceinput` — [PR #272864](https://github.com/Homebrew/homebrew-cask/pull/272864)
+> - `shotbox` — [PR #273225](https://github.com/Homebrew/homebrew-cask/pull/273225)
+> - `filewise` — [PR #273226](https://github.com/Homebrew/homebrew-cask/pull/273226)
 
 ## Install
 
@@ -22,3 +26,5 @@ brew install --cask depthsky2016/tap/voiceinput
 | Cask | App |
 |------|-----|
 | `voiceinput` | [VoiceInput 声忆](https://voiceinput.app/) — macOS menu-bar voice input |
+| `shotbox` | [Shotbox](https://box.gatheon.com/) — auto-titles screenshots and indexes their text for search |
+| `filewise` | [Filewise](https://filewise.gatheon.com/) — content-aware file organizer that renames and sorts documents |
